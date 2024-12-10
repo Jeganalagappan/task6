@@ -89,8 +89,7 @@ getCircumference: ${circle.Circumference}
 
 
 
-// https://github.com/rvsp/typescript-oops/blob/master/Practice/Movie.md
-// https://github.com/rvsp/typescript-oops/blob/master/Practice/class-circle.md
+
 // 3.Write a “person” class to hold all the details.
 
 class Person{
